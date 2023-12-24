@@ -1,0 +1,80 @@
+*{
+    margin: auto;
+}
+.header1{
+    font-size: 30px;
+}
+   
+.slide1 {
+ text-align:center;
+ height: 100vh;
+ background-image: linear-gradient(to bottom,#f208cf,#8C2FAA,#6D1FA6);
+ padding-top: 100px;
+ color: white;
+ font-size: 70px;
+ justify-content: center;
+}
+input[type=text]{
+    width: 25%;
+    text-align: center;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    border-color: solid white;
+    background-color:transparent;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+}
+input[type=password]{
+    width: 25%;
+    text-align: center;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    border-color: solid white;
+    background-color:transparent;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+}
+
+#login{
+    width: 10%;
+    color: purple;
+    font-weight: bold;
+    text-align: center;
+    box-sizing: border-box;
+    border: 3px solid purple;
+    border-radius: 10px;
+    font-size: 16px;
+    border-color: solid purple;
+    background-color:white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;   
+    padding: 10px;
+}
+
+.input-icons i {
+    position: absolute;
+    font-size: 30px;
+}
+ 
+.input-icons {
+    width: 100%;
+}
+ 
+.icon {
+    padding-top: 60px;
+    min-width: 40px;
+}
+.fa-lock{
+    padding-top: 60px;
+    min-width: 40px;
+}
+ 
+.input-field {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
